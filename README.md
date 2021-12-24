@@ -1,6 +1,15 @@
 # ioetTest
 This a repository for the ioet Senior and Mid-Level Software Developer position
 
+# solution overview:
+
+I tried to manage the solution as simple as possible, I use the fs node library to read asyncronously  
+the file with the input data,then I clean up the data deleting line breaks and others.  
+I filter the names and the schedules into arrays and then I go trought these array finding the matchs  
+for every person and day.
+
+I use a basic NodeJs architecture.
+
 To see the result of the solution, follow the next steps:
 
 1. Clone this repository.\n
