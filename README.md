@@ -10,7 +10,7 @@ for every person and day.
 
 I use a basic NodeJs architecture.
 
-To see the result of the solution, follow the next steps:
+# To build and run the project, follow the next steps:
 
 1. Clone this repository.  
 2. Enter into the repository root via cmd and run the command 'npm i'. This will install the node modules dependencies.  
